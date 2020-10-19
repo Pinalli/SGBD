@@ -1,0 +1,33 @@
+('C:/Users/Alberto Pinalli/Documents/GitHub/SGBD/set/ObesityDataSet.csv')
+
+https://archive.ics.uci.edu/ml/datasets/Estimation+of+obesity+levels+based+on+eating+habits+and+physical+condition+#
+https://www.sciencedirect.com/science/article/pii/S2352340919306985?via%3Dihub
+
+ 0   Gender                          2111 non-null   object 
+ 1   Age                             2111 non-null   float64
+ 2   Height                          2111 non-null   float64
+ 3   Weight                          2111 non-null   float64
+ 4   family_history_with_overweight  2111 non-null   object 
+ 5   FAVC                            2111 non-null   object 
+ 6   FCVC                            2111 non-null   float64
+ 7   NCP                             2111 non-null   float64
+ 8   CAEC                            2111 non-null   object 
+ 9   SMOKE                           2111 non-null   object 
+ 10  CH2O                            2111 non-null   float64
+ 11  SCC                             2111 non-null   object 
+ 12  FAF                             2111 non-null   float64
+ 13  TUE                             2111 non-null   float64
+ 14  CALC                            2111 non-null   object 
+ 15  MTRANS                          2111 non-null   object 
+ 16  NObeyesdad                      2111 non-null   object 
+-------------------------------------------------------------------------------------
+Video game
+
+https://www.openml.org/d/41216
+http://www.sharecsv.com/s/b3e369dd8bb4cec306e323035cd44b87/vgsales.csv
+http://www.sharecsv.com/s/9096d32f98aa0ac671a1cca16fa43be8/SalesJan2009.csv
+
+https://www.kaggle.com/gregorut/videogamesales
+https://www.kaggle.com/gulsahdemiryurek/video-game-sales-exploratory-data-analysis/execution
+https://www.kaggle.com/upadorprofzs/eda-video-game-sales
+https://www.kaggle.com/meesalasaidhanush/video-games-sales-end-to-end-construction
